@@ -14,6 +14,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-b94861191/)
 
 ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=carlorique&show_icons=true&theme=blue-green&count_private=true)
+<img height="200em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlorique&layout=compact&langs_count=7&theme=dracula"/>
 
 ## Tecnologias e ferramentas:
 
