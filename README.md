@@ -1,4 +1,4 @@
-## Olá! Eu sou o Carlos Henrique🖐️
+## Olá! Eu sou o Carlos Henrique, desenvolvedor de software apaixonado por JavaScript e desenvolvimento web!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.job321@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5592993332292)
