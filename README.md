@@ -16,10 +16,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=carlorique&theme=blue-green&show_icons=true" alt="Anurag's GitHub stats" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=carlorique&theme=blue-green&?theme=blue-green&show_icons=true%count_private=true&include_all_commits=true" alt="My stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlorique&layout=compact&theme=blue-green&show_icons=true" alt="Top Langs" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carlorique&show_icons=true&langs_count=10&layout=compact&theme=blue-green&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages" />
     </td>
   </tr>
 </table>
