@@ -1,6 +1,6 @@
 ##  Bem-vindo ao meu perfil!
 
-- 👽 Olá! Eu sou o Carlos Henrique, desenvolvedor de software apaixonado por soluções criativas e eficientes, especializado em Front-End.
+- 👽 Olá! Eu sou o Carlos Henrique, desenvolvedor de software apaixonado por soluções criativas e eficientes, especializado em Back-end.
 
 - 🎯 Aqui você encontrará meus projetos pessoais e contribuições em projetos de código aberto. Estou sempre aprendendo e aprimorando minhas habilidades, buscando estar atualizado com as melhores práticas e tendências da indústria.
 
